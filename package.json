@@ -1,8 +1,8 @@
 {
-    "name": "clean-blog",
+    "name": "exced",
     "title": "Clean Blog",
     "version": "1.0.0",
-    "homepage": "http://startbootstrap.com",
+    "homepage": "http://exced.github.io",
     "author": "Start Bootstrap",
     "license": "MIT",
     "devDependencies": {
@@ -14,6 +14,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/exced/exced.github.io.git"
     }
 }
