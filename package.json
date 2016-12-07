@@ -1,9 +1,9 @@
 {
-    "name": "exced",
-    "title": "Clean Blog",
+    "name": "Exced",
+    "title": "Exced Github Pages",
     "version": "1.0.0",
     "homepage": "http://exced.github.io",
-    "author": "Start Bootstrap",
+    "author": "Exced",
     "license": "MIT",
     "devDependencies": {
         "grunt": "~0.4.5",
