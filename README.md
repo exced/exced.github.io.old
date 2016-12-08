@@ -1,5 +1,7 @@
-# My website
+# Exced
 
 I write tutorials and posts about computer science.
 
-Built with Jekyll and Bootstrap starter.
+You can post everything you want concerning computers in general.
+
+I'm currently looking for people to work with on awesome projects. 
