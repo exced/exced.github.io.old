@@ -254,6 +254,19 @@ hr.small {
   margin-top: 60px;
   font-weight: 700;
 }
+
+.subsection-heading {
+  font-size: 31px;
+  margin-top: 60px;
+  font-weight: 550;
+}
+
+.subsubsection-heading {
+  font-size: 28px;
+  margin-top: 60px;
+  font-weight: 500;
+}
+
 .caption {
   text-align: center;
   font-size: 14px;
