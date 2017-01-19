@@ -48,5 +48,6 @@ After all the hours spent on coding, I realize that I'm too slow and I won't be 
 Actually, I sadly think that the key to be more productive is to <b>automate almost everything
  I usually do</b> such as reading blogs, learning new languages, coding.
  <br> I'll first focus on <u>automatic text summarizer</u> to keep my eyes open.
+ <br> This subject is a part of <b>information extraction</b> : wonderful artificial intelligence theme.
  I think it's a huge start.
 </p>
