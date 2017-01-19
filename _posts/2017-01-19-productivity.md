@@ -46,6 +46,6 @@ After all the hours spent on coding, I realize that I'm too slow and I won't be 
 </p>
 
 <p>
-Actually, I sadly think that the key to be more productive is to automate almost everything
- I usually do such as reading blogs, learning new languages, coding.
+Actually, I sadly think that the key to be more productive is to <b>automate almost everything
+ I usually do</b> such as reading blogs, learning new languages, coding.
 </p>
