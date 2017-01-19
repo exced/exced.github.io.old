@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "What I want"
-subtitle:   "do all the crazy things"
+subtitle:   "Information extraction"
 date:       2017-01-19 12:00:00
 author:     "Exced"
 header-img: "img/home-bg.png"
