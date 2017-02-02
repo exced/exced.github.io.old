@@ -1,7 +1,9 @@
-# Exced
+## About me
 
-I write tutorials and posts about computer science.
+Hello there, I'm Thomas and this is my blog. 
+I talk about computer science.
 
-You can post everything you want concerning computers in general.
+Built with Emerald
 
-I'm currently looking for people to work with on awesome projects. 
+## License
+Emerald is released under [MIT License](license.md).
