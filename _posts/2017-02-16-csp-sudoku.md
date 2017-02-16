@@ -37,10 +37,5 @@ match ltodo with
 {% endhighlight %}
 
 We iterated through the domain of each variables to solve the sudoku.
-Now we can use constraints to reduce the domain at each iteration.
-
-
-### Results : 
-- simple backtrack : thousands of tests
-- backtrack with AC-3 constraint propagation : number of blank variables tests (strict minimum)
+Now we can use constraints to reduce the domain at each iteration and reduce the number of iterations.
 
