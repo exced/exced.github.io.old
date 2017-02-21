@@ -4,7 +4,7 @@ title: About Me
 ---
 ## Hi there ! 
 My name is Thomas, I was raised in South of France.
-I studied Computer Science and Applied Mathematics at Engineering school in France until the last year.
+I studied Computer Science and Applied Mathematics at Engineering school in France until summer 2016.
 I'm currently pursuing a double degree : M.S. in Computer Science in Canada.
 
 I'm looking for an internship for summer / fall 2017 as software engineer.
