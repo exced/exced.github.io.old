@@ -113,7 +113,7 @@
 
 #container {
 	margin:0 auto;
-	max-width: 730px;
+	max-width: 960px;
 	padding: 0 1.5rem;
 }
 
@@ -128,8 +128,9 @@
   }
   img {
   	max-height: 72px;
+    
   	margin: 0 auto;
-  	display: block;
+  	display: block; 
   }
   h1 {
   	font-family: 'Signika', sans-serif; //Emerald logo font
@@ -185,7 +186,7 @@
 }
 
 img {
-  max-width: 100%;
+  max-width: 60%;
   display: block;
   margin: 0 auto;
   margin-bottom: 24px;
