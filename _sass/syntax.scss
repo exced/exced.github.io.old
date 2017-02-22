@@ -1,4 +1,4 @@
-.highlight {
+.highlight { 
   white-space: pre; 
   overflow: auto; 
   word-wrap: normal; /* horizontal scrolling */
@@ -8,6 +8,14 @@
   padding: 20px; 
   background: #343642;
   color: #C1C2C3;
+  font-size: small;
+  opacity: 1;
+  margin-right: 1.0em; /* space after numbers */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 .highlight .hll { background-color: #49483e }
