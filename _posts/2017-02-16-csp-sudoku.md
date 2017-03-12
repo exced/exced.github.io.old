@@ -2,8 +2,6 @@
 title:      "Constraint Satisfaction Problem"
 ---
 
-[Github link](https://github.com/exced/csp-sudoku)
-
 ### Definition of CSP
 
 In a CSP we have :
@@ -23,6 +21,10 @@ We have implemented the sudoku with a graph :
 - Vertex : Variable
 - Edges : Constraint between 2 variables (aka binary constraint)
 
+Here is the simple backtrack example :
+
+[Sources](https://github.com/exced/csp-sudoku)
+
 {% highlight ocaml linenos %}
 let rec backtrack ltodo = 
 match ltodo with
@@ -39,3 +41,18 @@ match ltodo with
 We iterated through the domain of each variables to solve the sudoku.
 Now we can use constraints to reduce the domain at each iteration and reduce the number of iterations.
 
+### Arcs consistency : AC-3
+
+Each time you test a value you propagate the constraints to neighbors and remove this value of their domains.
+Now that you've changed the domain of neighbors, you have to propagate the change to their neighbors etc...
+The process stops if any domain becomes unavalaible (0 possibility).
+
+[Python sources](https://github.com/exced/CSP)
+
+### Results
+
+I tested the number of backtrack calls and here are the results on 5 grids :
+
+![results](/img/2017-02-16-csp-sudoku/results.png)
+
+4500 time less iterations on the hardest grid !

@@ -8,6 +8,6 @@ I studied Computer Science and Applied Mathematics at Engineering school in Fran
 I'm currently pursuing a double degree : M.S. in Computer Science in Canada.
 
 I'm looking for an internship for summer / fall 2017 as software engineer.
-I like web technologies and machine learning.
+I like web technologies, machine learning (computer science & maths in general).
 
 I like practicing ski, ice skating, football. I'd love to travel more in the next years.
