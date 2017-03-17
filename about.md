@@ -2,7 +2,10 @@
 layout: page
 title: About Me
 ---
-## Hi there ! 
+## Hi there !
+
+![It's me !](./assets/profil1.jpg)
+
 My name is Thomas, I was raised in South of France.
 I studied Computer Science and Applied Mathematics at Engineering school in France until summer 2016.
 I'm currently pursuing a double degree : M.S. in Computer Science in Canada.
