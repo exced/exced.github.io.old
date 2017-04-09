@@ -23,7 +23,7 @@ I know you guys, you were networking when I was doing your fucking school projec
 
 Now I do not want to work in your firms anymore, you pissed me off, I do not want to work for people like you.
 
-Oh, finally, I don't care spitting on recruiters since they will never read this. After all, who would read a portfolio for 
-choosing an employee ?
+Oh, finally, I don't care spitting on recruiters since they will never read this. After all, who would read a portfolio to 
+choose an employee ?
 
 ![Hey you !](./assets/doigt.png)
