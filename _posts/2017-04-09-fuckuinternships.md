@@ -3,15 +3,18 @@ title:      "Fuck you internships"
 ---
 
 I have long hesitated to post this. But I really hate you, fucking internships.
-I do not actually know what does the "careers" section stand for in your fucking website.
+I do not actually know what does the "careers" section stand for in your fucking websites.
 I have never had an answer posting on that section.
 
 "What am I doing wrong ?"
-I probably have the answer : I tried the normal way. But I was wrong, the normal way is networking.
+I probably have the answer : I tried the easy way. But I was wrong, the easy way is networking.
 
 What is networking ? And how does it help ?
-"Networking provides access to business opportunities through a large business network".
+<div class="quote">
+    <blockquote>Networking provides access to business opportunities through a large business network.</blockquote>
+</div>
 Yes it does, I had the opportunity to see it, I did have a fucking answer from a recruiter by emailing.
+
 But I hate it, I hate the folks who tell me that LinkedIn is a powerful tool, the same folks that been carried by
 a friend or family member.
 
