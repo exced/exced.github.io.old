@@ -16,7 +16,7 @@ decided to implement my version.
 The purpose is to build a protocol that is not based on any number theory.
 > Algorithm that are not based on any of these number theory problems are being searched because of this property.
 
-### How it works ?
+### How does it work ?
 
 The scenario is : Alice want to secretly send messages to Bob. Eve is listening to the messages as Man-In-The-Middle.
 First answer is probably to work with asymmetric keys such RSA.
