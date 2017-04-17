@@ -24,3 +24,10 @@ I have only used geolocation and reverse geolocation from GMAPS API : returns ci
 returns lat, lng when clicking on Maps.
 You don't have to use geocoding. You can search for City name from DBPedia with only lat & lng but it does not
 work well (it gives you a lot of city around the point).
+
+## Results
+
+![Search by ontology](/img/2017-02-08-gmaps-info/img1.png)
+![Look to results](/img/2017-02-08-gmaps-info/img2.png)
+![Get description](/img/2017-02-08-gmaps-info/img3.png)
+
