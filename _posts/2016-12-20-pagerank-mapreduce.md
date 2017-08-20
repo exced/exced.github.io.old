@@ -38,36 +38,36 @@ var pageSchema = new Schema({
 {% highlight javascript linenos %}
 var pages = [
   {
-      _id: 'A',
-      value: {
-          url: 'A',
-          pg: 1,
-          links: ['B', 'C']
+    _id: 'A',
+    value: {
+      url: 'A',
+      pg: 1,
+        links: ['B', 'C']
       }
   },
   {
-      _id: 'B',
-      value: {
-          url: 'B',
-          pg: 1,
-          links: ['C']
-      }
+    _id: 'B',
+    value: {
+      url: 'B',
+      pg: 1,
+      links: ['C']
+    }
   },
   {
     _id: 'C',
     value: {
-        url: 'C',
-        pg: 1,
-          links: ['A']
-      }
+      url: 'C',
+      pg: 1,
+      links: ['A']
+    }
   },
   {
-      _id: 'D',
-      value: {
-          url: 'D',
-          pg: 1,
-          links: ['C']
-      }
+    _id: 'D',
+    value: {
+      url: 'D',
+      pg: 1,
+      links: ['C']
+    }
   }
 ];
 
