@@ -1,3 +1,7 @@
+## No longer maintained
+
+I'm soon going to switch to Medium to blog.
+
 ## About me
 
 Hello there, I'm Thomas and this is my blog. 
